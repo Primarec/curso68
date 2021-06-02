@@ -1,0 +1,48 @@
+* CSS restablecer la configuración aquí * / <font></ font>* {
+    <font></font>margen: 0 px;
+    relleno <font></font>: 0 px;
+    <font></font>
+}
+
+<font></ font>#wrapper {
+    <font></font>ancho: 950 px;
+    <font></font>color de fondo: plateado;
+    margen <font></font>: 0 px automático;
+    < fuente></font>
+}
+
+<font></ font>#header {
+    <font></font>altura mínima: 150 px;
+    <font></font>color de fondo: verde;
+    <font></font>
+}
+
+<font></ font>#navigation {
+    <font></font>min-height: 300 px;
+    <font></font>width: 200 px;
+    <font></font>background-color: blue;
+    <font></font>
+}
+
+<font></ font>#main_content {
+    <font></font>min-height: 400 px;
+    <font></font>width: 700 px;
+    <font></font>background-color: red;
+    <font></font>
+}
+
+<font></ font>.subcontents {
+    <font></font>min-height: 200 px;
+    <font></font>width: 210 px;
+    <font></font>background-color: yellow;
+    <font></font>
+}
+
+<font></ font>#advertisement {
+    <font></font>min-height: 120 px;
+    <font></font>width: 660 px;
+    <font></font>background-color: purple;
+    <font></font>
+}
+
+<font></font>
